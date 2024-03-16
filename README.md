@@ -7,7 +7,7 @@ Some examples of projects I have worked on are:
     - Applied my 3D CAD, Software, and Electronic's design knowledge.
 
   
-- An dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
+- An Dual Square-Wave and Triangular-Wave Oscillator acompanied by a 5-Step Sequencer to make it play a sequence of notes.
     - Applied my Electronic design knowledge.
 
   
