@@ -1,6 +1,6 @@
 # Thomas-Wilkinson
 
-Hello! I'm a third-year Mechatronics and Robotics Engineering student with a curious and creative mind, I enjoy applying and fortifying the knowledge I learn through various projects. 
+Hello! I'm a third-year Mechatronics and Robotics Engineering student with a curious and creative mind. I enjoy applying and fortifying the knowledge I learn through various projects. 
 
 Some examples of projects I have worked on are:
 - An Autonomous/Manual Gripper robot (applied my CAD, Sofwaere, and Electronics design knowledge)
